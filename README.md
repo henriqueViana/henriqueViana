@@ -24,6 +24,7 @@
   - Webpack
   - Styled-Components
   - Jest
+  - Figma
 </p>
 
 <h4 align="left">Tecnologias que possuo experiência:</h4>
