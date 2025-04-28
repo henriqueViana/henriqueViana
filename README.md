@@ -1,8 +1,8 @@
 <h1>Eu me chamo Henrique Viana, seja bem vindo 👋</h1>
 
-📫 Contatos:
-**Email: henriquehvisa@gmail.com**
-**Linkedin: https://www.linkedin.com/in/henrique-viana-dev/**
+📫 **Contatos:**
+<br />**Email: henriquehvisa@gmail.com**
+<br />**Linkedin: https://www.linkedin.com/in/henrique-viana-dev/**
   
 <h4>Atuo como desenvolvedor desde 2014 onde tive a oportunidade de atuar com projetos dos mais variádos escopos e complexidades e também com diversas tecnologias, sendo minha especialidade o JavaScript e suas libs e frameworks, tanto no Frontend quanto no Backend</h4>
 
