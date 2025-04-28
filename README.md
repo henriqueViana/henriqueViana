@@ -17,6 +17,7 @@
   - MongoDB
   - Redis
   - MySQL
+  - DataDog
   - NextJS
   - ReactJS
   - Typescript
